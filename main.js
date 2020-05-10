@@ -4,6 +4,7 @@ var result
 = 'No,店名,場所,ジャンル,点数,口コミ数\r\n';
 /*出力header情報*/
 /*勉強用に使うコードです。
+/*
 /*●変数
 ・shop_name：店名(class名で取得)
 ・shop_summry：概要(class名で取得)
